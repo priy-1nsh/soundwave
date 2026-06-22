@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300" role="img" aria-label="Starboy">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="hsl(213,65%,42%)"/>
+      <stop offset="1" stop-color="hsl(253,60%,22%)"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="300" fill="url(#g)"/>
+  <circle cx="240" cy="60" r="120" fill="#ffffff" opacity="0.06"/>
+  <circle cx="40" cy="250" r="90" fill="#000000" opacity="0.08"/>
+  <text x="150" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="96" font-weight="700"
+        fill="#ffffff" fill-opacity="0.92" text-anchor="middle" dominant-baseline="central">ST</text>
+</svg>
